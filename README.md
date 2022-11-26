@@ -1,5 +1,5 @@
 ### Olá, mundo! 
-### Eu Sou a Fer* 😀
+### Eu Sou a Fernanda G. Vargas 😉
 
 Escolaridade:
 > 📚 Recursos Humanos - Conclusão 2009.
