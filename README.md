@@ -23,7 +23,7 @@ Escolaridade:
   <img align="center" alt="Fer-CSS" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fer-Python" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fer-Bootstrap" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Fer-React" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactjs/react-original.svg">
+  <img align="center" alt="Fer-React" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react-icons/react-icons-original.svg">
   <img align="center" alt="Fer-Next" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original.svg">
   
   ![Snake animation](https://github.com/fergvargas/fergvargas/blob/output/github-contribution-grid-snake.svg)
