@@ -4,7 +4,7 @@
 Escolaridade:
 > 📚 Recursos Humanos - Conclusão 2009.
 > 
-> 📚 Desenvolvimento Full Stack - em andamento...
+> 📚 Desenvolvimento Full Stack - Mundo 3/5 em andamento...
 > 
 > 💬 Procuro evolução profissional na área  de tecnologia.
 > 
@@ -25,9 +25,9 @@ Escolaridade:
   <img align="center" alt="Fer-CSS" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fer-Python" height="110" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fer-Bootstrap" height="110" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Fer-VSCode" height="110" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   
-  ![Snake animation](https://github.com/fergvargas/fergvargas/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
   
 
