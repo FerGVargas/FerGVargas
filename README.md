@@ -2,9 +2,9 @@
 ### Eu Sou a Fer G. Vargas 😉
 
 Escolaridade:
-> 📚 Recursos Humanos - Conclusão 2009.
+> 📚 Recursos Humanos - Conclusão 2009
 > 
-> 📚 Desenvolvimento Full Stack - Conclusão 2009.
+> 📚 Desenvolvimento Full Stack - Conclusão 2024
 > 
 > 💬 Buscando evolução profissional na área  de tecnologia.
 > 
