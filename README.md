@@ -1,12 +1,12 @@
 ### Olá, mundo! 
-### Eu Sou a Fernanda G. Vargas 😉
+### Eu Sou a Fer G. Vargas 😉
 
 Escolaridade:
 > 📚 Recursos Humanos - Conclusão 2009.
 > 
-> 📚 Desenvolvimento Full Stack - Mundo 5/5 em andamento...
+> 📚 Desenvolvimento Full Stack - Conclusão 2009.
 > 
-> 💬 Procuro evolução profissional na área  de tecnologia.
+> 💬 Buscando evolução profissional na área  de tecnologia.
 > 
 > 😄 Pronomes: Ela/Dela.
 
